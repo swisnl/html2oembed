@@ -1,0 +1,41 @@
+{
+  "name": "html2oembed",
+  "version": "0.1.0",
+  "description": "Create oEmbed JSON from HTML",
+  "main": "index.js",
+  "bin": "bin/html2oembed.js",
+  "files": [
+    "bin",
+    "src",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/swisnl/html2oembed.git"
+  },
+  "keywords": [
+    "html",
+    "oembed",
+    "json"
+  ],
+  "author": {
+    "name" : "jasper Zonneveld",
+    "email" : "jasper@swis.nl",
+    "url" : "https://github.com/JaZo"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swisnl/html2oembed/issues"
+  },
+  "homepage": "https://github.com/swisnl/html2oembed#readme",
+  "dependencies": {
+    "node-html-parser": "^6.1.1",
+    "yargs": "^17.6.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
