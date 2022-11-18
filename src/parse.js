@@ -21,7 +21,7 @@ function parse(html) {
     }
     const body = document.querySelector('body');
     if (body) {
-        data.html += body.innerHTML;
+        data.html += body.innerHTML.trim();
     }
 
     data.width = '100%';

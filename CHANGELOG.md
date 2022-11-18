@@ -6,7 +6,8 @@ Updates should follow the [Keep a CHANGELOG](https://keepachangelog.com/) princi
 
 ## [Unreleased]
 
-- Nothing
+### Changed
+- HTML will be trimmed.
 
 ## [0.2.0] - 2022-11-18
 
