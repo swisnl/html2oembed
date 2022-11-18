@@ -6,5 +6,9 @@ Updates should follow the [Keep a CHANGELOG](https://keepachangelog.com/) princi
 
 ## [Unreleased]
 
+- Nothing
+
+## [0.2.0] - 2022-11-18
+
 ### Added
 - Added basic Webpack plugin.
